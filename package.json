@@ -1,0 +1,12 @@
+{
+  "name": "openssl-dn-parser",
+  "version": "0.1.0",
+  "description": "Non-strict openssl style distinguished name parser.",
+  "main": "./lib/parser.js",
+  "author": "Rong Shen <rong.shen@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jacobbubu/openssl-dn-parser.git"
+  },
+  "license": "MIT"
+}
